@@ -17,13 +17,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Learning Profile
-![📖](https://learn.microsoft.com/en-us/users/akshitrawat-8436/)
+## 🎓 Learning Profiles
 
-![📖📖](https://www.skills.google/public_profiles/52a457a4-b6da-4332-aaa3-0cdc960cfd4a/badges/5749747)
-
+- 🔹 Microsoft Learn: https://learn.microsoft.com/en-us/users/akshitrawat-8436/
+- 🔹 Google Cloud Skills Boost: https://www.cloudskillsboost.google/public_profiles/52a457a4-b6da-4332-aaa3-0cdc960cfd4a
 
 ---
-[![](https://komarev.com/ghpvc/?username=Akshitrawat23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
